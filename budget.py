@@ -10,7 +10,7 @@ while expense != 0:
     total += expense
     expense = float(input('Enter an expense or enter 0 to end: $'))
 
-print('The total spent for the month is $',
+print('Your total spent for the month is $',
       format(total, ',.2f'),
       sep='')
 
