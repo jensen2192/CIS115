@@ -1,5 +1,5 @@
 def main():
-    list = [1, 6, 8, 15, 23, 64, 999, 999999999]
+    list = [1, 6, 8, 15, 23, 64, 734, 5839, 999999999]
     print("Displaying numbers in list greater than 'n'")
     n = int(input("Provide a value for 'n': "))
     larger_than(n, list)
